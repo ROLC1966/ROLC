@@ -1,0 +1,49 @@
+.FrontpageWelcomeContainer2 {
+    margin-top: 40px;
+    display: flex;
+    justify-content: center;
+    background-color: #ffe001;
+    font-family: Calibri, serif;
+    color: Black;
+    height: 1000px;
+    width: 863.400px;
+    padding: 35px;
+    transform: scaleX(1.2);
+}
+
+.FrontpageWelcomeBorder2 {
+    border-style: solid;
+    border-color: black;
+    border-width: 4px;
+    border-radius: 12px;
+}
+
+.welcomeContent2 {
+    font-size: 18px;
+    font-family: monospace;
+}
+
+.WelcomeText {
+    font-size: 18px;
+    font-family: monospace;
+    position: absolute;
+    text-align: center;
+}
+
+.welcomeCenter2 {
+    display: flex;
+    justify-content: center;
+    margin: 46px;
+}
+
+
+
+/*
+
+|\  |   |---|
+| \ |   |   |
+|  \|   |___|
+
+ */
+
+.AllPosts
